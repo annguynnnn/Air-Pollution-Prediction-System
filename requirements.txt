@@ -1,0 +1,7 @@
+streamlit
+flask
+joblib
+pandas
+matplotlib
+seaborn
+requests
